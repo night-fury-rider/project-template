@@ -6,5 +6,5 @@ This folder should contain privacy policy related data.
 - Privacy policy in .md file.
 - Privacy policy in .txt file.
 
-Privacy policy file naming convension: "<project_name>_Privacy Policy_<year>-<month>-<day>"
-Ex. Price Comparator_Privacy Policy_2024-07-05.html
+Privacy policy file naming convension: `<project_name>_Privacy Policy_<year>-<month>-<day>`
+Ex. `Price Comparator_Privacy Policy_2024-07-05.html`
