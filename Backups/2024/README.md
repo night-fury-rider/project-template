@@ -1,4 +1,5 @@
-This folder should have important builds of the project like 
+This folder should have important builds of the project like
+
 - important apk and aab
 - apk and aab which is released on playstore.
 

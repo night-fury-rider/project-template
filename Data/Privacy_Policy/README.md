@@ -1,6 +1,7 @@
 # Privacy Policy
 
 This folder should contain privacy policy related data.
+
 - Privacy policy in .doc file.
 - Privacy policy in .html file.
 - Privacy policy in .md file.
