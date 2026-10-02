@@ -8,4 +8,4 @@ This folder should contain all Images related to Play Store.
 - Screenshots from 7 inch tablet for the Play Store in format `<year>-<month>-<day>_7 Inch Tab Screenshot`
 - Screenshots from 10 inch tablet for the Play Store in format `<year>-<month>-<day>_10 Inch Tab Screenshot`
 
-Please delete the old images.
+Please do not delete the old images.
