@@ -8,3 +8,5 @@ This folder should contain all logos of the project.
 - Round logo in naming format `<year>-<month>-<day>_Round Logo.png`
 - Favicon in naming format `<year>-<month>-<day>_Favicon.png`
 - Splash Screen in naming format `<year>-<month>-<day>_Splashscreen.png`
+
+Please do not delete the old images.
